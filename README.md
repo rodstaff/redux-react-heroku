@@ -1,11 +1,11 @@
 # redux-react-heroku
 
-<p>"Redux-React-Routes" is coded in ReactJS + React-Router and using the Redux framework.  It is a playful presentation of some famous people and the Mutant Ninja Turtles!  The app's simplicity betrays the complexity behind it.  It is a combination of multiple tutorials and it serves as a personal template for bigger and more complex apps.  There were four challenges I faced creating this app: <br/> 
+<"Redux-React-Routes" is coded in ReactJS + React-Router and using the Redux framework.  It is a playful presentation of some famous people and the Mutant Ninja Turtles!  The app's simplicity betrays the complexity behind it.  This is a combination of multiple tutorials and it serves as a personal template for bigger and more complex apps.  There were four challenges I faced creating this app:  
 
 (1) It is on the "bleeding edge" of technology and can be overwhelming;<br/>
 (2) Online authors do not necessarily make sure your dev environment is working or assume it is already working;<br/>
-(3) Different authors have different coding styles and preferences and explain only snippets of their total code.  Their code repositories may also be outdated.
-(4) Deployment to Heroku is a pain!!!</p><br/>
+(3) Different authors have different coding styles and preferences and explain only snippets of their total code.  Their code repositories may also be outdated.<br/>
+(4) Deployment to Heroku is a pain!!!<br/>
 
 Regarding to (4) above:  As of this writing, there is not a clear documentation on how to deploy React-Redux apps to Heroku and most of them look quite complex and difficult to follow.  I used a very simple option and that is to use the bundle.js file and deploy that to Heroku using Node.js/Express as the background server.  
 

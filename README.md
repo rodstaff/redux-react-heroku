@@ -29,6 +29,7 @@ The index.html file looks like this
 <html>
 <head>
   <title>React2Heroku</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <div id="root"></div>

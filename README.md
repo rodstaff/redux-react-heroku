@@ -38,6 +38,6 @@ The index.html file looks like this
 </body>
 </html>
 ```
-The bundle.js file was bundled by webpack from [redux-react-heroku](https://github.com/rodstaff/redux-react-heroku).
+The bundle.js file was bundled by webpack from [redux-react-routes](https://github.com/rodstaff/redux-react-routes).
 
 

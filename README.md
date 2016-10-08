@@ -40,4 +40,9 @@ The index.html file looks like this
 ```
 The bundle.js file was bundled by webpack from [redux-react-routes](https://github.com/rodstaff/redux-react-routes).
 
+To run this app locally using your terminal
+```
+$node server.js
+```
+
 

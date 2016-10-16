@@ -7,7 +7,7 @@
 (3) Different authors have different coding styles and preferences and explain only snippets of their total code.  Their code repositories may also be outdated.<br/>
 (4) Deployment to Heroku is a pain!!!<br/>
 
-Regarding to (4) above:  As of this writing, there is not a clear documentation on how to deploy React-Redux apps to Heroku and most of them look quite complex and difficult to follow.  I used a very simple option and that is to use the bundle.js file and deploy that to Heroku using Node.js/Express as the background server.  
+Regarding to (4) above:  As of this writing, there is not a clear documentation on how to deploy React-Redux apps to Heroku and most of them look quite complex and difficult to follow.  I used a very simple option and that is to use the bundle.js file in development and deploy that file to Heroku using Node.js/Express as the background server in production.  
 
 The server.js file is below
 

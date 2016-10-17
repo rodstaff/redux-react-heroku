@@ -1,11 +1,11 @@
 {
-  "name": "Redux",
+  "name": "Redux-React-Heroku",
   "version": "1.0.0",
   "description": "",
-  "main": "",
+  "main": "server.js",
   "scripts": "",
   "keywords": [],
-  "author": "",
+  "author": "Rod Kay",
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0"
